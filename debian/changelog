@@ -1,4 +1,4 @@
-ruby-rubame (0.0.3~git20131224.f3c78ba-2.1) bionic; urgency=medium
+ruby-rubame (0.0.3~git20131224.f3c78ba-2) bionic; urgency=medium
 
   * Port to bionic
 
