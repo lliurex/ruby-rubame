@@ -1,0 +1,18 @@
+ruby-rubame (0.0.3~git20131224.f3c78ba-2.1) bionic; urgency=medium
+
+  * Port to bionic
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Fri, 25 Sep 2020 10:56:53 +0200
+
+ruby-rubame (0.0.3~git20131224.f3c78ba-2) unstable; urgency=medium
+
+  * Enable Salsa CI
+  * Disable lazy send test
+
+ -- Valentin Vidic <vvidic@debian.org>  Sun, 26 Jul 2020 23:08:38 +0200
+
+ruby-rubame (0.0.3~git20131224.f3c78ba-1) unstable; urgency=medium
+
+  * Initial release (Closes: #963874)
+
+ -- Valentin Vidic <vvidic@debian.org>  Fri, 26 Jun 2020 21:30:15 +0200
